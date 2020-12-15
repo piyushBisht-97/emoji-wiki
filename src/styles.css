@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@500&display=swap');
+
+
+
+.App {
+  font-family: 'JetBrains Mono', monospace;
+    text-align: center;
+  }
+
+  h2{
+    color: slateblue;
+  }
